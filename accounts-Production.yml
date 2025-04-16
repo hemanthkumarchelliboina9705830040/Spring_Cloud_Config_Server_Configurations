@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to H_Bank Production accounts related local APIs "
+  contactDetails:
+    name: "Rohit - Developer"
+    email: "Rohit@h_bank.com"
+  onCallSupport:
+    - (yr8hru0) 6483026556
+    - (nug54op) 273627780

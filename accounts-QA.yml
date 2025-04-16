@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to H_Bank QA accounts related local APIs "
+  contactDetails:
+    name: "Kumar - Developer"
+    email: "kumarch@h_bank.com"
+  onCallSupport:
+    - (mkhg678) 720581789
+    - (ikdt67r) 487473939

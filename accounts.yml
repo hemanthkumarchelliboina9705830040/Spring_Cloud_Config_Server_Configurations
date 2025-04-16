@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to H_Bank accounts related local APIs "
+  contactDetails:
+    name: "Hemanth Kumar - Developer"
+    email: "hemanthkumarch@h_bank.com"
+  onCallSupport:
+    - (5nvn7) 542-1634
+    - (j805) 673-1396
