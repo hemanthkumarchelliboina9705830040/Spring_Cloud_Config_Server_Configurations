@@ -6,7 +6,7 @@ build:
 cards:
   message: "Welcome to H_Bank production related to all the cards related APIs "
   contactDetails:
-    name: "Sandra Harald - Product Owner"
+    name: "Sandra Harald - Product Owner in H Bank"
     email: "sandra@eazybank.com"
   onCallSupport:
     - (617) 432-2356
