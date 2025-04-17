@@ -4,7 +4,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to H_Bank loans related local APIs Of Production Environment"
+  message: "Welcome to H_Bank loans related local APIs Of Production related Environment"
   contactDetails:
     name: "Jos Buttler - Developer"
     email: "josebuttler@h_bank.com"
