@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to H_Bank Production environment the accounts related local APIs "
+  message: "Welcome to H_Bank Prod environment the accounts related local APIs "
   contactDetails:
     name: "Rohit kumar java backend Developer"
     email: "{cipher}0ee6a32ac4a3005fc24dc36c88e85713f79bb82d39558e2e8a10855d027563b03dd7877fe1d366c20f93b60a30a9d856"
