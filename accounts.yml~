@@ -6,7 +6,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to H_Bank accounts related local APIs "
+  message: "Welcome to H_Bank accounts related local APIs default env"
   contactDetails:
     name: "Hemanth Kumar - Developer"
     email: "hemanthkumarch@h_bank.com"
