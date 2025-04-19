@@ -4,7 +4,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to H Bank loans for the Prod env"
+  message: "Welcome to H Bank loans for the of Prod env profile"
   contactDetails:
     name: "Jos Buttler -Backend Developer in H Bank"
     email: "josebuttler@h_bank.com"
