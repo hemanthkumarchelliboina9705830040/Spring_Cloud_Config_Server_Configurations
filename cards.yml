@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Default H_Bank cards related local APIs of default environment"
+  message: "Welcome to Default H_Bank cards related local APIs of default env profile"
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@eazybank.com"
